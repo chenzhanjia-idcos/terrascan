@@ -43,8 +43,8 @@ require (
 	github.com/mattn/go-isatty v0.0.12
 	github.com/mitchellh/go-homedir v1.1.0
 	github.com/moby/buildkit v0.8.3
-	github.com/onsi/ginkgo v1.15.1
-	github.com/onsi/gomega v1.11.0
+	github.com/onsi/ginkgo v1.16.4
+	github.com/onsi/gomega v1.18.0
 	github.com/open-policy-agent/opa v0.22.0
 	github.com/owenrumney/go-sarif v1.0.12
 	github.com/pelletier/go-toml v1.9.3
@@ -54,7 +54,7 @@ require (
 	github.com/stretchr/testify v1.7.0
 	github.com/zclconf/go-cty v1.9.1
 	go.uber.org/zap v1.16.0
-	golang.org/x/sys v0.0.0-20211205182925-97ca703d548d
+	golang.org/x/sys v0.0.0-20211216021012-1d35b9e2eb4e
 	golang.org/x/tools v0.1.8 // indirect
 	google.golang.org/api v0.34.0
 	google.golang.org/genproto v0.0.0-20201110150050-8816d57aaa9a
